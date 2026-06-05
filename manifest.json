@@ -1,7 +1,7 @@
 {
   "name": "2-about-me",
   "short_name": "2-about-me",
-  "description": "2. About Me",
+  "description": "2. About Me. Now also add/update: - Professional introduction",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0e17",
