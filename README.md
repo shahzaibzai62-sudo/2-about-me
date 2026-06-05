@@ -1,5 +1,5 @@
 # 2-about-me
-> 2. About Me. Now also add/update: - Professional introduction
+> 2. About Me. Now also add/update: - Passionate AI, SaaS and mobile app builder
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/2-about-me
